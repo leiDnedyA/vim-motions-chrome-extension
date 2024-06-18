@@ -1,7 +1,7 @@
 {
-  "name": "Fresh Chrome Extension",
-  "description": "Fully functional, useful bare minimum Google Chrome extension boilerplate [Manifest V3].",
-  "homepage_url": "https://github.com/llagerlof/fresh-chrome-extension",
+  "name": "Vim Motions for Chrome",
+  "description": "Navigate the web using the best keybinds known to man.",
+  "homepage_url": "https://github.com/leiDnedyA/vim-motions-chrome-extension",
   "version": "2.0.0",
   "manifest_version": 3,
   "action": {
